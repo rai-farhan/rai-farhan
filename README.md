@@ -1,8 +1,5 @@
-### Hi, I'm Farhan 👋
+I build full-stack web apps with Next.js, React and Node.js. Most of what I'm working on right now is Next.js with Supabase on the backend.
 
-Full-stack developer focused on **React, Next.js, and Node.js** — currently building real-world projects and sharpening my skills for my first full-stack role.
+**Stack:** TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, Supabase
 
-🔭 Currently building: web apps with **Next.js + Supabase**  
-🌱 Also exploring: AI-assisted development workflows  
-💻 Core stack: HTML5 · Tailwind CSS · JavaScript · React · Next.js · Node.js  
-📬 Open to full-stack developer opportunities
+Open to full-stack developer roles.
